@@ -1,6 +1,6 @@
 
 ### **CONTRIBUTIONS.md**
-```markdown
+
 # Guide de Contribution
 
 ## 🎯 Comment contribuer ?
