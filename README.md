@@ -1,5 +1,3 @@
-Voici les fichiers `CONTRIBUTIONS.md` et `README.md` en français pour votre projet de gestion de tontines :
-
 ### **README.md**
 ```markdown
 # Application de Gestion de Tontines
