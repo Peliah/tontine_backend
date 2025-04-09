@@ -1,0 +1,119 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+app/database.db
+
+# MySQL files
+*.ibd
+*.frm
+*.myd
+*.myi
+*.sock
+
+# FastAPI specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+test/
+tests/
+
+# Documentation
+docs/_build/
+
+# Virtual environment
+venv/
+
+# Local development files
+local_settings.py
+.env.local
+.env.*.local
+
+# Secrets
+secrets.py
+*.pem
+*.key
+*.cert
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Media
+media/
+
+# Static files
+staticfiles/
