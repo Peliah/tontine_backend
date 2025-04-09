@@ -1,5 +1,5 @@
 ### **README.md**
-```markdown
+
 # Application de Gestion de Tontines
 
 ## 📝 Description
@@ -21,7 +21,7 @@ Une application web développée avec FastAPI et MySQL pour automatiser la gesti
 ## ⚙️ Installation
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/votre-repo/tontine.git
+git clone https://github.com/peliah/tontine.git
 cd tontine
 ```
 
